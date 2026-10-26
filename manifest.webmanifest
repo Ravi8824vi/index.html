@@ -1,0 +1,9 @@
+{
+  "name": "ITI Job Prep",
+  "short_name": "ITI Prep",
+  "description": "ITI government job mock test preparation",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#123b68"
+}

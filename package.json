@@ -1,0 +1,12 @@
+{
+  "name": "iti-job-prep-web",
+  "version": "0.1.0",
+  "private": true,
+  "description": "ITI Job Prep starter",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
